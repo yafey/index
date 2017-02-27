@@ -2,7 +2,7 @@
 
 * [free-programming-books](https://github.com/yafey/free-programming-books/blob/master/free-programming-books-zh.md) : local
 * [读书笔记（ 思维导图形式 ）网页版](https://github.com/yafey/mind_map_notes) : local
-* [haoduoshipin.com @[happypeter](https://github.com/happypeter)](https://yafey.github.io/haoduoshiping) : 半local （视频地址还是原始的）
+* [haoduoshipin.com @[happypeter](https://github.com/happypeter)](https://github.com/yafey/haoduoshipin/tree/master/src/posts) : 只是md文件 （网页和视频还是原始的）
 * [《ECMAScript 6入门》@local](https://yafey.github.io//es6)
 
 
