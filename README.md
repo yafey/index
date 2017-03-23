@@ -1,5 +1,5 @@
 # 参考的 jekyll 模板
-* willard-yuan.github.io  ： 主体简洁， 博客正文风格喜欢以及字体， 豆瓣书单 ， 更多亮点见 ： https://github.com/willard-yuan/willard-yuan.github.io 
+* willard-yuan.github.io  ： 主体简洁， 博客正文风格喜欢以及字体， 豆瓣书单 ， 更多亮点见 ： https://github.com/yafey/willard-yuan.github.io 
 * mzlogin.github.io ： 主题简洁， 博客 正文页的 目录 ， 更多亮点见 ： https://github.com/yafey/mzlogin.github.io  http://mazhuang.org/2017/01/01/my-2016/
   * 经验与思考
     * 简约，尽量每个页面都不展示多余的内容。
