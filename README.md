@@ -7,7 +7,8 @@
 ## [learn_Bootstrap](https://github.com/yafey/learn_Bootstrap) :octocat:
 妙味课堂视频源码， 完成于 @2017年4月4日
 
-
+## [learn_git](https://github.com/yafey/learn_git) :octocat:
+git 分场景使用技巧 ，开始于 @ 2017年4月5日
 
 
 ## TODO
