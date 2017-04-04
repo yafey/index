@@ -64,7 +64,8 @@
 - [fucking-java-concurrency](https://github.com/yafey/fucking-java-concurrency) ：:octocat: ：:flags: simple show cases of java concurrency problem
   + :point_right: 通过Demo演示出Java中并发问题。
 
-
+- [Arithmetic](https://github.com/yafey/Arithmetic) ：:octocat: ：算法/设计模式/剑指offer/LeetCode   【七大排序算法总结 ：https://idisfkj.github.io/2016/06/19/%E4%B8%83%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/】
+  + 七大排序算法分析 + 总结 ： https://idisfkj.github.io/category/#java
 
 
 
