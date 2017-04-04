@@ -1,7 +1,7 @@
 
 
 # List for what？
-## [learn_js_stack-React](../learn_js_stack-React) :octocat:
+## [learn_js_stack-React](/yafey/learn_js_stack-React) :octocat:
 全栈工程师培训材料 , 过了一遍 @ 2017年4月2日
 
 ## [learn_Bootstrap](../learn_Bootstrap) :octocat:
