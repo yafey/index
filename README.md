@@ -1,22 +1,68 @@
 
 
 # List for what？
-## [learn_js_stack-React](/yafey/learn_js_stack-React) :octocat:
+## [learn_js_stack-React](https://github.com/yafey/learn_js_stack-React) :octocat:
 全栈工程师培训材料 , 过了一遍 @ 2017年4月2日
 
-## [learn_Bootstrap](../learn_Bootstrap) :octocat:
+## [learn_Bootstrap](https://github.com/yafey/learn_Bootstrap) :octocat:
 妙味课堂视频源码， 完成于 @2017年4月4日
 
 
 
 
 ## TODO
+- [javascript](https://github.com/yafey/javascript) :octocat:  ：Airbnb JavaScript Style Guide
+
 - React 技术栈 ： http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html
   + 《ECMAScript 6 入门》 github镜像：  https://yafey.github.io/es6/
-- [jstutorial](../jstutorial) :octocat:  ： Javascript tutorial book 《JavaScript 标准参考教程（alpha）》 by ruanyifeng
-- [es5](../es5) ：:octocat: ： 《ecmascript 5 中文版 + es合集》 http://yanhaijing.com/es5  : 本规范原出处为 http://ecmascript.cn/
+  + [react-demos](https://github.com/yafey/react-demos) :octocat:  ： react 入门
+- [jstutorial](https://github.com/yafey/jstutorial) :octocat:  ： Javascript tutorial book 《JavaScript 标准参考教程（alpha）》 by ruanyifeng
+- [es5](https://github.com/yafey/es5) ：:octocat: ： 《ecmascript 5 中文版 + es合集》 http://yanhaijing.com/es5  : 本规范原出处为 http://ecmascript.cn/
 
+- [ES6-Learning](https://github.com/yafey/ES6-Learning) ：:octocat: ：List of resources to learn ECMAScript 6! 英文的~！！ 
+  + ES6 Specification
 
+- 前端全栈
+  + [Front--end--stack](https://github.com/yafey/Front--end--stack) ：:octocat: ：「前端知识框架」 -- 较全的前端知识   ， 链接 汇总
+  + 【荐】[fks](https://github.com/yafey/fks) ：:octocat: ：前端技能汇总 Frontend Knowledge Structure http://html5ify.com/fks/  
+  + [FEND_Note](https://github.com/yafey/FEND_Note) ：:octocat: ：前端开发笔记本
+    * 前端笔记本大纲及内容由 网易云课堂前端专业 改编
+  + [WebFrontEndStack](https://github.com/yafey/WebFrontEndStack/blob/master/README.zh-cn.md) ：:octocat: ：Web前端技术栈 
+    * [交互式预览图(用鼠标移动/缩放/点击节点打开相关网站)](https://rawgit.com/unruledboy/WebFrontEndStack/master/ux/WebFrontEndStack.htm?locale=zh-cn)
+  + [bigger-jser](https://github.com/yafey/bigger-jser) ：:octocat: ：前端JSer装逼手册
+  + [FE-interview](https://github.com/yafey/FE-interview) ：:octocat: ：收集的前端面试题和答案
+
+- [javascript-lessons](https://github.com/yafey/javascript-lessons) ：:octocat:   《JavaScript 闯关记》 ： 
+  + 部分章节精心设计了挑战关卡，通过提供更多的实战机会。 
+  + 2015年，公司请来 大胡子姜志辉 为我们培训 JS Dota 课程。
+
+- [book-tutorial](https://github.com/yafey/book-tutorial) ：:octocat: ： 一些 js 的 笔记， 可以参考。
+
+- React 资源
+  + [leanreact](https://github.com/yafey/leanreact) ：:octocat: ：精益 react 学习指南
+    * 精益 React 学习指南 （Lean React）序 https://segmentfault.com/a/1190000005136764
+  + [React-Study](https://github.com/yafey/React-Study) ：:octocat: ：渐进式学习React生态圈
+  + [react-1](https://github.com/yafey/react-1) ：:octocat: ：React-Demo
+    * 基于Reactjs && Node 通讯的简单演示
+      - Reactjs && ES6 && webpack构建移动端京东首页
+      - 基于文件系统的Node.js服务端
+
+- [freecodecamp.cn](https://github.com/yafey/freecodecamp.cn) ：:octocat: ：著名网站的中文版？
+
+- [morning.work](https://github.com/yafey/morning.work) ：:octocat: ：每天早起一小时 , 干什么，搬砖~！
+
+- [http-api-design-ZH_CN](https://github.com/yafey/http-api-design-ZH_CN) ：:octocat: ：HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
+
+- [eevee](https://github.com/yafey/eevee) ：:octocat: ：基于 github page 的在线编辑 blog 平台
+
+- 【荐】[dragDemo](https://github.com/yafey/dragDemo) ：:octocat: ：演示原生Javascript实现的图标拖拽效果
+
+- [spr-mvc-hib](https://github.com/yafey/spr-mvc-hib) ：:octocat: ：Spring MVC + Hibernate + Maven tutorial with all CRUD operations
+
+- [awesome-java-cn](https://github.com/yafey/awesome-java-cn) ：:octocat: ：Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+
+- [fucking-java-concurrency](https://github.com/yafey/fucking-java-concurrency) ：:octocat: ：:flags: simple show cases of java concurrency problem
+  + :point_right: 通过Demo演示出Java中并发问题。
 
 
 
