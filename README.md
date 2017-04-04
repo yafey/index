@@ -1,10 +1,10 @@
 
 
 # List for what？
-## learn_js_stack-React :octocat:
+## [learn_js_stack-React](../learn_js_stack-React) :octocat:
 全栈工程师培训材料 , 过了一遍 @ 2017年4月2日
 
-## learn_Bootstrap :octocat:
+## [learn_Bootstrap](../learn_Bootstrap) :octocat:
 妙味课堂视频源码， 完成于 @2017年4月4日
 
 
@@ -13,8 +13,8 @@
 ## TODO
 - React 技术栈 ： http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html
   + 《ECMAScript 6 入门》 github镜像：  https://yafey.github.io/es6/
-- jstutorial :octocat:  ： Javascript tutorial book 《JavaScript 标准参考教程（alpha）》 by ruanyifeng
-- es5 ：:octocat: ： 《ecmascript 5 中文版 + es合集》 http://yanhaijing.com/es5  : 本规范原出处为 http://ecmascript.cn/
+- [jstutorial](../jstutorial) :octocat:  ： Javascript tutorial book 《JavaScript 标准参考教程（alpha）》 by ruanyifeng
+- [es5](../es5) ：:octocat: ： 《ecmascript 5 中文版 + es合集》 http://yanhaijing.com/es5  : 本规范原出处为 http://ecmascript.cn/
 
 
 
